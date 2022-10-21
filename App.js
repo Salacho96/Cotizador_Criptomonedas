@@ -1,4 +1,4 @@
-//to create this proyect "npx react-native init criptomonedas"
+//to create this proyect "npx react-native init "criptomonedas"
 //to run it we use "npx react-native run-ios"
 
 import React, {useState, useEffect} from 'react';
